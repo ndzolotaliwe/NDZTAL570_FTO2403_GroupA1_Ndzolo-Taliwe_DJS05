@@ -67,3 +67,6 @@ Ensure your code is well-commented and adheres to best practices for readability
 - **Documentation**: Clarity of your approach and reflections in the README.md.
 
 This challenge is an excellent opportunity to demonstrate your understanding of state management concepts and functional programming principles. Good luck!
+
+
+https://www.loom.com/share/75985c6d964e4eb9bb942a7c910b4706?sid=1405652a-7d01-4980-8903-babad436dffd
